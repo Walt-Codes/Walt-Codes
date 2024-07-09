@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Walt-Codes
-- 👀 I’m interested in ML, Machine architecture, CGI and Mathematics
-- 🌱 I’m currently learning as fast as possible.
+- 👀 I’m interested in ML, Machine architecture, computer graphics and Mathematics
 - 💞️ I’m looking to collaborate on a machine crocheting project.  
 - 📫 How to reach me: dm me on linkedin
 
